@@ -16,6 +16,9 @@ nano /opt/nexus/bin/nexus.vmoptions
 
 vi /opt/nexus/bin/nexus.rc
 
+sudo -u nexus /opt/nexus/bin/nexus start
+
+
 
 
 ```
