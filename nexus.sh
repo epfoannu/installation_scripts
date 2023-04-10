@@ -14,6 +14,8 @@ chown -R nexus:nexus /opt/nexus
 
 nano /opt/nexus/bin/nexus.vmoptions
 
+vi /opt/nexus/bin/nexus.rc
+
 
 
 ```
