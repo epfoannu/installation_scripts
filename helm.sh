@@ -7,3 +7,10 @@ chmod 700 get_helm.sh
 
 echo "checking version.."
 helm version
+
+
+#datree.io to install
+
+curl https://get.datree.io | /bin/bash
+datree version
+datree test <your_kubernetes_manifest_YAML_NAME>
